@@ -6,9 +6,6 @@ https://github.com/Zhafirsp/prakweb2021_oophp_193040135.git
 Pertemuan 2 - 17 September 2021
 Mempelajari tentang Constructor
 */
-
-use Produk as GlobalProduk;
-
 ?>
 
 <?php
